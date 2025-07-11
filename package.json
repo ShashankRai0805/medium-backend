@@ -8,7 +8,8 @@
   "dependencies": {
     "@prisma/client": "^6.11.1",
     "@prisma/extension-accelerate": "^2.0.2",
-    "hono": "^4.8.4"
+    "hono": "^4.8.4",
+    "medium-common-shashankrai": "^1.0.0"
   },
   "devDependencies": {
     "prisma": "^6.11.1",
